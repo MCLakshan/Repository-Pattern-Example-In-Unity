@@ -15,11 +15,6 @@ namespace RepositoryPattern
             await context.Load();
             return Entities;  
         }
-    
-        // private async Task LoadFromJson() {
-        //     await context.Load();
-        //     context.Set();
-        // }
 
         public float GetPrice(int id) {
             var i = Entities.Find(x => x.ID == id);
