@@ -2,6 +2,8 @@
 
 This project demonstrates the implementation of the **Repository Pattern** and **Unit of Work Pattern** in Unity. It is designed as a shop system, showcasing how these patterns can simplify data handling, improve code organization, and maintain consistency.  
 
+![Repository Pattern Example Project Image](image.png)
+
 ## Features  
 
 ### Shop System  
