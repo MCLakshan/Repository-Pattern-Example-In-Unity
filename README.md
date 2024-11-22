@@ -28,7 +28,7 @@ This project demonstrates the implementation of the **Repository Pattern** and *
 - **TextMeshPro** for polished UI elements  
 
 ## Project Structure  
-
+```
 Unity  
 ├── Assets  
 │   ├── Data  
@@ -46,7 +46,7 @@ Unity
 │   │   │   └── PopulateShop.cs  
 │   └── TextMesh Pro              # Fonts and UI text assets  
 ├── Packages                      # Unity package manager dependencies  
-
+```
 
 ## Scripts Overview  
 
