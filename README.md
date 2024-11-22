@@ -98,7 +98,7 @@ The `ItemsData.json` file contains all shop items:
         { "ID": 5, "Name": "Helmet", "Price": 75.0 }
     ]
 }
-
+```
 ## Contribution  
 
 Feel free to fork the repository and submit pull requests to improve the project or add new features.  
